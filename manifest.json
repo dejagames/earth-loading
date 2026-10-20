@@ -1,0 +1,25 @@
+
+{
+  "id": "./",
+  "name": "EARTH-LOADING",
+  "short_name": "EARTH-LOADING",
+  "description": "Vuelve a descubrir la curiosidad por nuestro planeta.",
+  "start_url": "./inde.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#c8f1ff",
+  "theme_color": "#c8f1ff",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
